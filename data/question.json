@@ -1,0 +1,99 @@
+{
+    "questions":[
+    
+    {
+        "question": "To stay motivated while learning software engineering you need?",
+      "options": ["focus on the real-world impact you can create with your skills ", "set clear goals", "find a supportive community","build personal projects","all the options"],
+      "correctOption": 4,
+      "points": 10
+        
+    },
+
+    {
+      "question": "What is error?",
+    "options": [" mistake in  computer program, software, or application", "JavaScript object that extends the functionality of ESLint", " efers to the process of retrieving data from a database or other source ", "  it is template for creating objects"],
+    "correctOption": 0,
+    "points": 10
+      
+  },
+
+    
+    
+    {
+        "question": "what is loop in programming?",
+      "options": ["allows a programmer to repeat a set of instructions multiple times ", "fundamental to repeat a set of instructions multiple times until the condition happen ", "function to repeat a set of instructions multiple times until the condition happen", "variable to repeat a set of instructions multiple times until the condition happen"],
+      "correctOption": 1,
+      "points": 10
+        
+    },
+
+
+    {
+        "question": "What is a variable?",
+      "options": ["it is data The user enters it", "it is type of function ", "it is storage location", "it is type of loops tools"],
+      "correctOption": 2,
+      "points": 10
+        
+    },
+    {
+        "question": "example  of loop tools?",
+      "options": ["Do-while loop", "if loop", " swtich loop", "class loops"],
+      "correctOption": 0,
+      "points": 10
+        
+    },
+    {
+        "question": "what is the object?",
+      "options": ["a programming language", "a data structure that stores multiple elements and data", "framwork", " a data structure that contains fields and methods"],
+      "correctOption": 3,
+      "points": 10
+        
+    },
+    
+    {
+        "question": "What is Arry programming?",
+      "options": ["a programming language", "a data structure that stores specific data", "a data structure that stores multiple elements and data", "a data structure that  state and behavior"],
+      "correctOption": 2,
+      "points": 10
+        
+    },
+
+    {
+        "question": "What's the  function ?",
+      "options": [" code performs a loop task", " code performs a specific task", "code performs just Arry task", "it is type of error"],
+      "correctOption": 1,
+      "points": 10
+        
+    },
+    
+    
+    {
+        "question": "What are the  data structures?",
+      "options": ["ways to organize data", "ways to organize, store, process, and retrieve data", "ways to ready many of data", "ways to  store data"],
+      "correctOption": 1,
+      "points": 10
+        
+    },
+    
+    {
+        "question": "what is  the bug in Programming  ?",
+      "options": ["kind of variable", "an error or flaw in a computer program", "it is name of class ", " it is  library"],
+      "correctOption": 1,
+      "points": 10
+        
+    },
+    
+    {
+        "question": " what do you need to become full stack ?",
+      "options": [" just frontend", " just backend", "just backend and forntend", " just backend and forntend and web design","more ..."],
+      "correctOption": 4,
+      "points": 10
+        
+    }
+    
+    
+    
+
+]
+
+}
